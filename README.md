@@ -1,2 +1,3 @@
 # Do-While-Loop-User-Input
-xxxxxx
+My application run once, then check condiotion,
+Perfect for menus and user input because you always want to ask at least once
